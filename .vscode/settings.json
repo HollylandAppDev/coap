@@ -18,7 +18,7 @@
         "**/trinket/**": true,
         "**/msm8916/**": true,
         "**/msm8960/**": true,
-        "*.dep": true,
-        "*.map": true
+        "**/*.dep": true,
+        "**/*.map": true
     }
 }
