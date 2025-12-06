@@ -1,0 +1,24 @@
+{
+    "search.exclude": {
+        "**/bengal/**": true,
+        "**/atoll/**": true,
+        "**/apq8098/**": true,
+        "**/lito/**": true,
+        "**/msm8909/**": true,
+        "**/msm8937/**": true,
+        "**/msm8953/**": true,
+        "**/msm8996/**": true,
+        "**/msmnile/**": true,
+        "**/msmnile_au/**": true,
+        "**/msmsteppe/**": true,
+        "**/msmsteppe_au/**": true,
+        "**/sdm660/**": true,
+        "**/sdm710/**": true,
+        "**/sdm845/**": true,
+        "**/trinket/**": true,
+        "**/msm8916/**": true,
+        "**/msm8960/**": true,
+        "**/*.dep": true,
+        "**/*.map": true
+    }
+}
